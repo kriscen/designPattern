@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="23种设计模式">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designpattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_01singleresponsibilty/SingleResponsibility1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_01singleresponsibilty/SingleResponsibility2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_01singleresponsibilty/SingleResponsibility3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_02interfacesegregation/Segregation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_02interfacesegregation/improve/Segregation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/AirVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/RoadVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/SingleResponsibility1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/SingleResponsibility2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/SingleResponsibility3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/Vehicle2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/WaterVehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/Interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/Segregation1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Interface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Interface3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Segregation2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/DependecyInversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Email.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/IReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/WeiXin.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Use Case" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kris" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\idea\workspace\designpattern\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\Users\kris\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UsMwt8nghoblbyWTvlLm5m527R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Use Case" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML&#10;SQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_02interfacesegregation\improve" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_02interfacesegregation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DependecyInversion">
+    <configuration name="DependecyInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.principle._03dependenceinversion.DependecyInversion" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.principle._03dependenceinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Segregation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.principle._02interfacesegregation.improve.Segregation2" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.principle._02interfacesegregation.improve.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DependecyInversion" />
+        <item itemvalue="Application.Segregation2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="" />
+      <created>1576141091538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576141091538</updated>
+      <workItem from="1576141095298" duration="342000" />
+      <workItem from="1576141460816" duration="2519000" />
+      <workItem from="1576144015732" duration="283000" />
+      <workItem from="1576144327872" duration="1278000" />
+      <workItem from="1576145674953" duration="1271000" />
+      <workItem from="1576201961686" duration="2117000" />
+      <workItem from="1576204231968" duration="146000" />
+      <workItem from="1576204561991" duration="5931000" />
+      <workItem from="1576461227954" duration="611000" />
+      <workItem from="1576464093580" duration="10023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23种设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="23种设计模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="203" key="#Custom_Plugin_Repositories" timestamp="1576141273347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="203" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1576141273347" />
+    <state x="1062" y="221" width="816" height="662" key="#HTTP_Proxy" timestamp="1576204018873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1062" y="221" width="816" height="662" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1576204018873" />
+    <state x="358" y="186" key="#Notifications" timestamp="1576144058829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="358" y="186" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1576144058829" />
+    <state x="1098" y="185" width="816" height="689" key="#Plugins" timestamp="1576204199299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1098" y="185" width="816" height="689" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1576204199299" />
+    <state x="612" y="188" key="#Project_Structure" timestamp="1576144418062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="188" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576144418062" />
+    <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576203325122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576203325122" />
+    <state x="622" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576202351143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576202351143" />
+    <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576144943464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576144943464" />
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576484907727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576484907727" />
+    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576485371730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371730" />
+    <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576485127046" />
+    <state width="991" height="257" key="GridCell.Tab.0.bottom" timestamp="1576485371753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="991" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
+    <state width="991" height="257" key="GridCell.Tab.0.center" timestamp="1576485371753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="991" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
+    <state width="991" height="257" key="GridCell.Tab.0.left" timestamp="1576485371753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="991" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
+    <state width="991" height="257" key="GridCell.Tab.0.right" timestamp="1576485371753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="991" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
+    <state x="418" y="221" width="998" height="708" key="SettingsEditor" timestamp="1576476955748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576476955748" />
+    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485343984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485343984" />
+    <state x="255" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576483624607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="255" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576483624607" />
+    <state x="430" y="247" width="700" height="530" key="recent.locations.popup" timestamp="1576202169971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="430" y="247" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576202169971" />
+    <state x="223" y="245" key="run.anything.popup" timestamp="1576481322313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576481322313" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576204088356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576204088356" />
+  </component>
+</project>
