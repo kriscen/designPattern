@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="23种设计模式">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_01singleresponsibilty/SingleResponsibility1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_01singleresponsibilty/SingleResponsibility2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_01singleresponsibilty/SingleResponsibility3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_02interfacesegregation/Segregation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_02interfacesegregation/improve/Segregation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/DependecyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/AirVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/RoadVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/SingleResponsibility1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/SingleResponsibility2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/SingleResponsibility3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/Vehicle2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_01singleresponsibilty/WaterVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/Interface1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/Segregation1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Interface1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Interface2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Interface3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_02interfacesegregation/improve/Segregation2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/DependecyInversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Email.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/IReceiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/WeiXin.class" afterDir="false" />
+    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +64,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UsMwt8nghoblbyWTvlLm5m527R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -197,8 +156,16 @@
       <workItem from="1576204231968" duration="146000" />
       <workItem from="1576204561991" duration="5931000" />
       <workItem from="1576461227954" duration="611000" />
-      <workItem from="1576464093580" duration="10023000" />
+      <workItem from="1576464093580" duration="10271000" />
     </task>
+    <task id="LOCAL-00001" summary="23种设计模式">
+      <created>1576485403188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576485403188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,10 +184,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1062" y="221" width="816" height="662" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1576204018873" />
-    <state x="358" y="186" key="#Notifications" timestamp="1576144058829">
+    <state x="358" y="186" key="#Notifications" timestamp="1576485516353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="358" y="186" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1576144058829" />
+    <state x="358" y="186" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1576485516353" />
     <state x="1098" y="185" width="816" height="689" key="#Plugins" timestamp="1576204199299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -245,10 +212,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576484907727" />
-    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576485371730">
+    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576485412884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371730" />
+    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485412884" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,10 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576476955748" />
-    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485343984">
+    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485343984" />
+    <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485537396" />
     <state x="255" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576483624607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
