@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
+    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="7种设计原则">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/improve/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/improve/DependecyPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_04liskovsubstitution/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_04liskovsubstitution/improve/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_05ocp/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_05ocp/improve/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_06demeter/Demeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_06demeter/improve/Demeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/aggregation/CompositeReuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/composite/CompositeReuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/dependency/CompositeReuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/generalization/CompositeReuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/designpattern.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/DependecyInversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/DependecyPass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/Email.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/IReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/WeiXin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/Liskov.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/Liskov.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/GraphicEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Ocp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/GraphicEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Ocp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/OtherGraphic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/CollegeEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/CollegeManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/Demeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/SchoolManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/DependecyInversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/DependecyInversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/DependecyInversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/DependecyInversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Email.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/IReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/WeiXin.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +117,7 @@
   <component name="ProjectId" id="1UsMwt8nghoblbyWTvlLm5m527R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -79,19 +131,38 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML&#10;SQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/dependency" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kris.principle._04liskovsubstitution" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_02interfacesegregation\improve" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_02interfacesegregation" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_07compositereuse\dependency" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_07compositereuse\composite" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_07compositereuse\aggregation" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_06demeter\improve" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_05ocp\improve" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DependecyInversion">
+  <component name="RunManager" selected="Application.Demeter">
+    <configuration name="Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.principle._06demeter.Demeter" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.principle._06demeter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DependecyInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.principle._03dependenceinversion.DependecyInversion" />
       <module name="designpattern" />
@@ -120,6 +191,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demeter" />
         <item itemvalue="Application.DependecyInversion" />
         <item itemvalue="Application.Segregation2" />
       </list>
@@ -156,7 +228,8 @@
       <workItem from="1576204231968" duration="146000" />
       <workItem from="1576204561991" duration="5931000" />
       <workItem from="1576461227954" duration="611000" />
-      <workItem from="1576464093580" duration="10271000" />
+      <workItem from="1576464093580" duration="11593000" />
+      <workItem from="1576547878697" duration="11887000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1576485403188</created>
@@ -165,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576485403188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="23种设计模式">
+      <created>1576485704401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576485704401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="23种设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="23种设计模式" />
+    <MESSAGE value="7种设计原则" />
+    <option name="LAST_COMMIT_MESSAGE" value="7种设计原则" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="203" key="#Custom_Plugin_Repositories" timestamp="1576141273347">
@@ -208,38 +289,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576144943464" />
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576484907727">
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576570714467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576484907727" />
-    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576485412884">
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576570714467" />
+    <state x="237" y="294" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576565052858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485412884" />
+    <state x="237" y="294" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576565052858" />
+    <state x="49" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576565046393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="49" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576565046393" />
+    <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576565054313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576565054313" />
+    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576571251335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576571251335" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576485127046" />
-    <state width="991" height="257" key="GridCell.Tab.0.bottom" timestamp="1576485371753">
+    <state width="801" height="317" key="GridCell.Tab.0.bottom" timestamp="1576569285338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
-    <state width="991" height="257" key="GridCell.Tab.0.center" timestamp="1576485371753">
+    <state width="801" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.0.center" timestamp="1576569285338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
-    <state width="991" height="257" key="GridCell.Tab.0.left" timestamp="1576485371753">
+    <state width="801" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.0.left" timestamp="1576569285338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
-    <state width="991" height="257" key="GridCell.Tab.0.right" timestamp="1576485371753">
+    <state width="801" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.0.right" timestamp="1576569285338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576485371753" />
+    <state width="801" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.1.bottom" timestamp="1576569285338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="801" height="317" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.1.center" timestamp="1576569285338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="801" height="317" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.1.left" timestamp="1576569285338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="801" height="317" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.1.right" timestamp="1576569285338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="801" height="317" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
     <state x="418" y="221" width="998" height="708" key="SettingsEditor" timestamp="1576476955748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576476955748" />
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576485709554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485709554" />
     <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -256,9 +369,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576481322313" />
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576204088356">
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576571170892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576204088356" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576571170892" />
   </component>
 </project>
