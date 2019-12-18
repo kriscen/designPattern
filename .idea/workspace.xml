@@ -1,59 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="7种设计原则">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/improve/DependecyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/improve/DependecyPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_04liskovsubstitution/Liskov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_04liskovsubstitution/improve/Liskov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_05ocp/Ocp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_05ocp/improve/Ocp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_06demeter/Demeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_06demeter/improve/Demeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/aggregation/CompositeReuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/composite/CompositeReuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/dependency/CompositeReuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/generalization/CompositeReuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/designpattern.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/DependecyInversion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/DependecyPass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/Email.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/IReceiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/improve/WeiXin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/Liskov.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_04liskovsubstitution/improve/Liskov.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/GraphicEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Ocp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/GraphicEditor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Ocp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/OtherGraphic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_05ocp/improve/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/CollegeEmployee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/CollegeManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/Demeter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/SchoolManager.class" afterDir="false" />
+    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/DependecyInversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/principle/_03dependenceinversion/DependecyInversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/DependecyInversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/DependecyInversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Email.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/IReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_03dependenceinversion/WeiXin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/SchoolManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/SchoolManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +90,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kris.principle._04liskovsubstitution" />
     </key>
@@ -229,7 +184,10 @@
       <workItem from="1576204561991" duration="5931000" />
       <workItem from="1576461227954" duration="611000" />
       <workItem from="1576464093580" duration="11593000" />
-      <workItem from="1576547878697" duration="11887000" />
+      <workItem from="1576547878697" duration="11959000" />
+      <workItem from="1576633406905" duration="2201000" />
+      <workItem from="1576636829167" duration="275000" />
+      <workItem from="1576637144125" duration="12102000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1576485403188</created>
@@ -245,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576485704401</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="7种设计原则">
+      <created>1576571303373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576571303373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,10 +234,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="358" y="186" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1576485516353" />
-    <state x="1098" y="185" width="816" height="689" key="#Plugins" timestamp="1576204199299">
+    <state x="198" y="174" width="816" height="689" key="#Plugins" timestamp="1576637481797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1098" y="185" width="816" height="689" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1576204199299" />
+    <state x="198" y="174" width="816" height="689" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1576637481797" />
     <state x="612" y="188" key="#Project_Structure" timestamp="1576144418062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -281,18 +246,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576203325122" />
-    <state x="622" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576202351143">
+    <state x="622" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576657664707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="622" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576202351143" />
+    <state x="622" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576657664707" />
     <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576144943464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576144943464" />
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576570714467">
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576653688405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576570714467" />
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576653688405" />
     <state x="237" y="294" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576565052858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -305,54 +270,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576565054313" />
-    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576571251335">
+    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576571300041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576571251335" />
+    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576571300041" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576485127046" />
-    <state width="801" height="317" key="GridCell.Tab.0.bottom" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.0.bottom" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.0.center" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.0.center" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.0.left" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.0.left" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.0.right" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.0.right" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.1.bottom" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.1.bottom" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.1.center" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.1.center" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.1.left" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.1.left" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
-    <state width="801" height="317" key="GridCell.Tab.1.right" timestamp="1576569285338">
+    <state width="801" height="317" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="801" height="317" key="GridCell.Tab.1.right" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576569285338" />
+    <state width="801" height="317" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
     <state x="418" y="221" width="998" height="708" key="SettingsEditor" timestamp="1576476955748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576476955748" />
-    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576485709554">
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576571308278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576485709554" />
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576571308278" />
     <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -369,9 +334,59 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576481322313" />
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576571170892">
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576653700892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576571170892" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576653700892" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>
