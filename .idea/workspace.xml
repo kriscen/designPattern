@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/设计模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/SchoolManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/principle/_06demeter/SchoolManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,7 +184,7 @@
       <workItem from="1576547878697" duration="11959000" />
       <workItem from="1576633406905" duration="2201000" />
       <workItem from="1576636829167" duration="275000" />
-      <workItem from="1576637144125" duration="12102000" />
+      <workItem from="1576637144125" duration="12360000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1576485403188</created>
@@ -210,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576571303373</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uml简介">
+      <created>1576658942969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576658942969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="uml简介">
+      <created>1576659025657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576659025657</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +230,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="23种设计模式" />
     <MESSAGE value="7种设计原则" />
-    <option name="LAST_COMMIT_MESSAGE" value="7种设计原则" />
+    <MESSAGE value="uml简介" />
+    <option name="LAST_COMMIT_MESSAGE" value="uml简介" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="203" key="#Custom_Plugin_Repositories" timestamp="1576141273347">
@@ -270,10 +282,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576565054313" />
-    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576658940221">
+    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576659024121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576658940221" />
+    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576659024121" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -310,14 +322,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="801" height="317" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
-    <state x="418" y="221" width="998" height="708" key="SettingsEditor" timestamp="1576476955748">
+    <state x="418" y="221" width="998" height="708" key="SettingsEditor" timestamp="1576659177026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576476955748" />
-    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576658946041">
+    <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576659177026" />
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576659027274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576658946041" />
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576659027274" />
     <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
