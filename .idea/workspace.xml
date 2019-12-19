@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/设计模式" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/设计模式" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +31,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Use Case" />
+        <option value="Enum" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -74,34 +80,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="DefaultPlantUmlFileTemplate" value="UML Use Case" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML&#10;SQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/principle/_07compositereuse/dependency" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_02factory/simplefactory/improve" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kris.principle._04liskovsubstitution" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_07compositereuse\dependency" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_07compositereuse\composite" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_07compositereuse\aggregation" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_06demeter\improve" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle\_05ocp\improve" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\simplefactory\improve" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type8" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type7" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type6" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demeter">
+  <component name="RunManager" selected="Application.PizzaStore (1)">
     <configuration name="Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kris.principle._06demeter.Demeter" />
       <module name="designpattern" />
@@ -128,12 +135,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segregation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.principle._02interfacesegregation.improve.Segregation2" />
+    <configuration name="PizzaStore (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._02factory.simplefactory.improve.order.PizzaStore" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.principle._02interfacesegregation.improve.*" />
+          <option name="PATTERN" value="com.kris.designpattern._02factory.simplefactory.improve.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._02factory.simplefactory.pizzastore.order.PizzaStore" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.designpattern._02factory.simplefactory.pizzastore.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._01single.type1.Singleton1" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kris.designpattern._01single.type1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,9 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PizzaStore (1)" />
+        <item itemvalue="Application.PizzaStore" />
+        <item itemvalue="Application.Singleton1" />
         <item itemvalue="Application.Demeter" />
         <item itemvalue="Application.DependecyInversion" />
-        <item itemvalue="Application.Segregation2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +219,8 @@
       <workItem from="1576547878697" duration="11959000" />
       <workItem from="1576633406905" duration="2201000" />
       <workItem from="1576636829167" duration="275000" />
-      <workItem from="1576637144125" duration="12360000" />
+      <workItem from="1576637144125" duration="12825000" />
+      <workItem from="1576720279111" duration="14226000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1576485403188</created>
@@ -221,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576659025657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="uml简介">
+      <created>1576659184536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576659184536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +297,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="612" y="188" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576144418062" />
+    <state x="227" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576744449985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="227" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576744449985" />
     <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576203325122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -266,10 +313,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576144943464" />
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576653688405">
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576744726902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576653688405" />
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576744726902" />
     <state x="237" y="294" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576565052858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -282,30 +329,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576565054313" />
-    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576659024121">
+    <state x="122" y="118" key="CommitChangelistDialog2" timestamp="1576659183407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576659024121" />
+    <state x="122" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576659183407" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576485127046" />
-    <state width="801" height="317" key="GridCell.Tab.0.bottom" timestamp="1576571352097">
+    <state width="784" height="256" key="GridCell.Tab.0.bottom" timestamp="1576745203928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
-    <state width="801" height="317" key="GridCell.Tab.0.center" timestamp="1576571352097">
+    <state width="784" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576745203928" />
+    <state width="784" height="256" key="GridCell.Tab.0.center" timestamp="1576745203928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
-    <state width="801" height="317" key="GridCell.Tab.0.left" timestamp="1576571352097">
+    <state width="784" height="256" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576745203928" />
+    <state width="784" height="256" key="GridCell.Tab.0.left" timestamp="1576745203928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
-    <state width="801" height="317" key="GridCell.Tab.0.right" timestamp="1576571352097">
+    <state width="784" height="256" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576745203928" />
+    <state width="784" height="256" key="GridCell.Tab.0.right" timestamp="1576745203928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="801" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
+    <state width="784" height="256" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576745203928" />
     <state width="801" height="317" key="GridCell.Tab.1.bottom" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -326,10 +373,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576659177026" />
-    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576659027274">
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2" timestamp="1576659212168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576659027274" />
+    <state x="622" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576659212168" />
     <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -338,18 +385,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="255" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576483624607" />
+    <state x="184" y="163" width="626" height="720" key="find.popup" timestamp="1576744481738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="163" width="626" height="720" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576744481737" />
     <state x="430" y="247" width="700" height="530" key="recent.locations.popup" timestamp="1576202169971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="430" y="247" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576202169971" />
-    <state x="223" y="245" key="run.anything.popup" timestamp="1576481322313">
+    <state x="223" y="245" key="run.anything.popup" timestamp="1576739276469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576481322313" />
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576653700892">
+    <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576739276469" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576738033625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576653700892" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576738033625" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
