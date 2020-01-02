@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="" />
+    <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/设计模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_02factory/simplefactory/improve/order/PizzaSimpleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_02factory/simplefactory/improve/order/PizzaSimpleFactory.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +28,16 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="designpattern" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="UML Use Case" />
         <option value="Enum" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -84,34 +92,39 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML&#10;SQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_02factory/simplefactory/improve" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_02factory/absfactory/pizzastore/order" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.kris.principle._04liskovsubstitution" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\simplefactory\improve" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type8" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type7" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type6" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type5" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kris.principle._04liskovsubstitution" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kris.designpattern._03prototype.improve" />
+      <recent name="com.kris.designpattern._02factory.factorymethod.pizzastore.order" />
+      <recent name="com.kris.designpattern._02factory.factorymethod.pizzastore.pizza" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\absfactory\pizzastore\order" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\absfactory\pizzastore\pizza" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\factorymethod\pizzastore\order" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\simplefactory\improve" />
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_01single\type8" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PizzaStore (1)">
-    <configuration name="Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.principle._06demeter.Demeter" />
+  <component name="RunManager" selected="Application.Clinet">
+    <configuration name="Clent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._03prototype.deep.Clent" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.principle._06demeter.*" />
+          <option name="PATTERN" value="com.kris.designpattern._03prototype.deep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DependecyInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.principle._03dependenceinversion.DependecyInversion" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._03prototype.improve.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.principle._03dependenceinversion.*" />
+          <option name="PATTERN" value="com.kris.designpattern._03prototype.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaStore (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._02factory.simplefactory.improve.order.PizzaStore" />
+    <configuration name="Clinet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._04builder.Clinet" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._02factory.simplefactory.improve.order.*" />
+          <option name="PATTERN" value="com.kris.designpattern._04builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._02factory.simplefactory.pizzastore.order.PizzaStore" />
+    <configuration name="PizzaStore (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._02factory.factorymethod.pizzastore.order.PizzaStore" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._02factory.simplefactory.pizzastore.order.*" />
+          <option name="PATTERN" value="com.kris.designpattern._02factory.factorymethod.pizzastore.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._01single.type1.Singleton1" />
+    <configuration name="PizzaStore (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._02factory.absfactory.pizzastore.order.PizzaStore" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._01single.type1.*" />
+          <option name="PATTERN" value="com.kris.designpattern._02factory.absfactory.pizzastore.order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PizzaStore (1)" />
-        <item itemvalue="Application.PizzaStore" />
-        <item itemvalue="Application.Singleton1" />
-        <item itemvalue="Application.Demeter" />
-        <item itemvalue="Application.DependecyInversion" />
+        <item itemvalue="Application.Clinet" />
+        <item itemvalue="Application.Clent" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.PizzaStore (3)" />
+        <item itemvalue="Application.PizzaStore (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +231,13 @@
       <workItem from="1576636829167" duration="275000" />
       <workItem from="1576637144125" duration="12825000" />
       <workItem from="1576720279111" duration="14376000" />
+      <workItem from="1576745757135" duration="231000" />
+      <workItem from="1576807561685" duration="6088000" />
+      <workItem from="1577673411076" duration="9160000" />
+      <workItem from="1577700400588" duration="1837000" />
+      <workItem from="1577755475985" duration="6288000" />
+      <workItem from="1577929630519" duration="14324000" />
+      <workItem from="1577955159586" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1576485403188</created>
@@ -268,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576745532372</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="设计模式-单例模式,简单工厂模式">
+      <created>1576745904080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576745904080</updated>
+    </task>
+    <task id="LOCAL-00009" summary="设计模式-单例模式,简单工厂模式">
+      <created>1576745947130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576745947130</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,10 +336,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="612" y="188" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576144418062" />
-    <state x="227" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576744449985">
+    <state x="227" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577934586039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="227" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576744449985" />
+    <state x="227" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577934586039" />
     <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576203325122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -318,10 +352,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576144943464" />
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1576744726902">
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1577952132624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576744726902" />
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577952132624" />
     <state x="237" y="294" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576565052858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -334,30 +368,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576565054313" />
-    <state x="466" y="138" key="CommitChangelistDialog2" timestamp="1576745901742">
+    <state x="340" y="121" key="CommitChangelistDialog2" timestamp="1577955706761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="466" y="138" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576745901742" />
+    <state x="340" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577955706761" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576485127046" />
-    <state width="1877" height="256" key="GridCell.Tab.0.bottom" timestamp="1576745559206">
+    <state width="817" height="231" key="GridCell.Tab.0.bottom" timestamp="1577954956707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576745559206" />
-    <state width="1877" height="256" key="GridCell.Tab.0.center" timestamp="1576745559206">
+    <state width="817" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577954956707" />
+    <state width="817" height="231" key="GridCell.Tab.0.center" timestamp="1577954956706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="256" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576745559206" />
-    <state width="1877" height="256" key="GridCell.Tab.0.left" timestamp="1576745559206">
+    <state width="817" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577954956706" />
+    <state width="817" height="231" key="GridCell.Tab.0.left" timestamp="1577954956706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="256" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576745559206" />
-    <state width="1877" height="256" key="GridCell.Tab.0.right" timestamp="1576745559206">
+    <state width="817" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577954956706" />
+    <state width="817" height="231" key="GridCell.Tab.0.right" timestamp="1577954956706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="256" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576745559206" />
+    <state width="817" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577954956706" />
     <state width="801" height="317" key="GridCell.Tab.1.bottom" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -374,14 +408,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="801" height="317" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576571352097" />
-    <state x="418" y="221" width="998" height="708" key="SettingsEditor" timestamp="1576659177026">
+    <state x="-12" y="148" width="998" height="708" key="SettingsEditor" timestamp="1577757733952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="418" y="221" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576659177026" />
-    <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1576745910594">
+    <state x="-12" y="148" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577757733952" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1577947894688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576745910594" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1577947894688" />
+    <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1576745948798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576745948798" />
     <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -390,10 +428,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="255" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576483624607" />
-    <state x="184" y="163" width="626" height="720" key="find.popup" timestamp="1576744481738">
+    <state x="184" y="163" width="759" height="720" key="find.popup" timestamp="1577934769541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="163" width="626" height="720" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576744481737" />
+    <state x="184" y="163" width="759" height="720" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577934769541" />
     <state x="430" y="247" width="700" height="530" key="recent.locations.popup" timestamp="1576202169971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -402,10 +440,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576739276469" />
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1576738033625">
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1577947966585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576738033625" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577947966585" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
