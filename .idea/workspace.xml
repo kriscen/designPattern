@@ -2,7 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a79f9201-6c21-497d-8d7f-b476740fc94c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/DVDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/Popcorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/Projector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_09facade/TheaterLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_10flyweight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_10flyweight/ConcreteWebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_10flyweight/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_10flyweight/WebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_10flyweight/WebSiteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/cglib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/cglib/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/cglib/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/dynamic/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/dynamic/ITeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/dynamic/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/dynamic/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/staticproxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/staticproxy/ITeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/staticproxy/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_11proxy/staticproxy/TeacherDaoProcy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/PeanutSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/RedBeanSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/SoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/improve/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/improve/PeanutSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/improve/PureSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/improve/RedBeanSoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/improve/SoyaMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/LightReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_13command/RemoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/command1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/command2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/facade1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/facade2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/flweight1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/flweight2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/proxy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/proxy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/proxy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/template1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/img/template2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/DVDPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/HomeTheaterFacade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/Popcorn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/Projector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/Screen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/Stereo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_09facade/TheaterLight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_10flyweight/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_10flyweight/ConcreteWebSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_10flyweight/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_10flyweight/WebSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_10flyweight/WebSiteFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/cglib/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/cglib/ProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/cglib/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/dynamic/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/dynamic/ITeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/dynamic/ProxyFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/dynamic/ProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/dynamic/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/staticproxy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/staticproxy/ITeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/staticproxy/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_11proxy/staticproxy/TeacherDaoProcy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/PeanutSoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/RedBeanSoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/SoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/improve/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/improve/PeanutSoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/improve/PureSoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/improve/RedBeanSoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_12template/improve/SoyaMilk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/LightOffCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/LightOnCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/LightReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/NoCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kris/designpattern/_13command/RemoteController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designpattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kris/designpattern/设计模式.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +140,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -92,41 +188,46 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML&#10;SQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_05adapter/objectadapter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kris/designpattern/_12template/improve" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kris.principle._04liskovsubstitution" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.kris.designpattern._08composite" />
-      <recent name="com.kris.designpattern._05adapter.classadapter" />
-      <recent name="com.kris.designpattern._03prototype.improve" />
-      <recent name="com.kris.designpattern._02factory.factorymethod.pizzastore.order" />
-      <recent name="com.kris.designpattern._02factory.factorymethod.pizzastore.pizza" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_12template\improve" />
       <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_05adapter\objectadapter" />
       <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\absfactory\pizzastore\order" />
       <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\absfactory\pizzastore\pizza" />
       <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\factorymethod\pizzastore\order" />
-      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\designpattern\_02factory\simplefactory\improve" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kris.designpattern._13command" />
+      <recent name="com.kris.designpattern._11proxy.cglib" />
+      <recent name="com.kris.designpattern._09facade" />
+      <recent name="com.kris.designpattern._08composite" />
+      <recent name="com.kris.designpattern._05adapter.classadapter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\workspace\designpattern\src\main\java\com\kris\principle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ta" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._05adapter.classadapter.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._11proxy.cglib.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._05adapter.classadapter.*" />
+          <option name="PATTERN" value="com.kris.designpattern._11proxy.cglib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +236,11 @@
       </method>
     </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._06bridge.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._12template.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._06bridge.*" />
+          <option name="PATTERN" value="com.kris.designpattern._12template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +249,11 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._07decorator.Client" />
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._13command.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._07decorator.*" />
+          <option name="PATTERN" value="com.kris.designpattern._13command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._08composite.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._10flyweight.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._08composite.*" />
+          <option name="PATTERN" value="com.kris.designpattern._10flyweight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clinet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._04builder.Clinet" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kris.designpattern._11proxy.dynamic.Client" />
       <module name="designpattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kris.designpattern._04builder.*" />
+          <option name="PATTERN" value="com.kris.designpattern._11proxy.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Clinet" />
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +343,15 @@
       <workItem from="1577955159586" duration="572000" />
       <workItem from="1578017503086" duration="10369000" />
       <workItem from="1578293404694" duration="7356000" />
-      <workItem from="1578361158613" duration="8237000" />
+      <workItem from="1578361158613" duration="9720000" />
+      <workItem from="1578450879507" duration="8183000" />
+      <workItem from="1578472757946" duration="1474000" />
+      <workItem from="1578535524907" duration="11499000" />
+      <workItem from="1578622124099" duration="2440000" />
+      <workItem from="1578637335292" duration="1707000" />
+      <workItem from="1579071707922" duration="4972000" />
+      <workItem from="1579140125115" duration="6470000" />
+      <workItem from="1579226706091" duration="11895000" />
     </task>
     <task id="LOCAL-00001" summary="23种设计模式">
       <created>1576485403188</created>
@@ -314,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577955712671</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="设计模式-适配器模式,桥接模式,装饰者模式,组合模式">
+      <created>1578384930310</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578384930310</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +442,8 @@
     <MESSAGE value="uml简介" />
     <MESSAGE value="设计模式-单例模式,简单工厂模式" />
     <MESSAGE value="设计模式-原型模式,建造者模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式-原型模式,建造者模式" />
+    <MESSAGE value="设计模式-适配器模式,桥接模式,装饰者模式,组合模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式-适配器模式,桥接模式,装饰者模式,组合模式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="203" key="#Custom_Plugin_Repositories" timestamp="1576141273347">
@@ -365,10 +482,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="497" y="231" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576144943464" />
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1578383555479">
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1579250678376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578383555479" />
+    <state x="372" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579250678376" />
     <state x="237" y="294" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576565052858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -381,30 +498,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="275" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576565054313" />
-    <state x="340" y="121" key="CommitChangelistDialog2" timestamp="1577955706761">
+    <state x="889" y="149" key="CommitChangelistDialog2" timestamp="1579251449766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="340" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577955706761" />
+    <state x="889" y="149" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579251449766" />
     <state x="800" y="284" key="FileChooserDialogImpl" timestamp="1576485127046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="800" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576485127046" />
-    <state width="799" height="231" key="GridCell.Tab.0.bottom" timestamp="1578384005569">
+    <state width="1877" height="221" key="GridCell.Tab.0.bottom" timestamp="1579251009236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578384005569" />
-    <state width="799" height="231" key="GridCell.Tab.0.center" timestamp="1578384005569">
+    <state width="1877" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579251009236" />
+    <state width="1877" height="221" key="GridCell.Tab.0.center" timestamp="1579251009236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578384005569" />
-    <state width="799" height="231" key="GridCell.Tab.0.left" timestamp="1578384005568">
+    <state width="1877" height="221" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579251009236" />
+    <state width="1877" height="221" key="GridCell.Tab.0.left" timestamp="1579251009235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578384005568" />
-    <state width="799" height="231" key="GridCell.Tab.0.right" timestamp="1578384005569">
+    <state width="1877" height="221" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579251009235" />
+    <state width="1877" height="221" key="GridCell.Tab.0.right" timestamp="1579251009236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578384005569" />
+    <state width="1877" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579251009236" />
     <state width="801" height="317" key="GridCell.Tab.1.bottom" timestamp="1576571352097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -429,10 +546,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1578019553756" />
-    <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1577955717552">
+    <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1578384935943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577955717552" />
+    <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578384935943" />
     <state x="304" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576485537396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -441,6 +558,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="255" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576483624607" />
+    <state x="843" y="43" width="744" height="956" key="dock-window-1" timestamp="1579073735223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="843" y="43" width="744" height="956" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1579073735223" />
     <state x="184" y="163" width="759" height="720" key="find.popup" timestamp="1577934769541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -449,14 +570,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="430" y="247" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576202169971" />
-    <state x="223" y="245" key="run.anything.popup" timestamp="1578019682366">
+    <state x="223" y="245" width="672" height="677" key="run.anything.popup" timestamp="1578559930071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="223" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578019682366" />
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1578300802992">
+    <state x="223" y="245" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578559930071" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1579074312661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578300802992" />
+    <state x="397" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579074312661" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
